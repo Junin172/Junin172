@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá! Eu sou o Erik Júnior 😁
+
+[![Linkedin]()]
 
 <!--
 **Junin172/Junin172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
